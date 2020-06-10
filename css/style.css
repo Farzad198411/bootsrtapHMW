@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  font-size: 20px;
+  margin-top: 2%;
+  margin-left: 2%;
+  text-decoration: none;
+}
+.navBar {
+  width: 100%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+.herocontent {
+  margin-left: 40%;
+}
+.helloSize {
+  font-size: 35px;
+}
+.firstCaseStudy {
+  width: 470px;
+}
+.firstContainer {
+  margin-top: 200px;
+  margin-left: 150px;
+}
+.firstContent {
+  margin-left: 80px;
+}
+.width {
+  width: 440px;
+  margin-left: 10px;
+}
+.CTACaseStudy {
+  margin-left: 33s0px;
+}
